@@ -77,9 +77,10 @@ I believe in **learning by building** and growing through consistency and explor
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshubham1903&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kshubham1903&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kshubham1903&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshubham1903&layout=compact&theme=dark)
+
 
 ---
 
