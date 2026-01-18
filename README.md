@@ -1,93 +1,98 @@
 # 👋 Hi, I'm Shubham Kadam
 
-🎓 B.Tech Computer Engineering Student (2023–2027)  
-🤖 AI | 🌐 Web Development | ⚙️ Automation | 🧠 DSA Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=Computer+Engineering+Student;AI+%7C+Web+Development+%7C+Automation;Building+Real-World+Projects;Consistent+Learner+%26+Problem+Solver)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kshubham1903&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🧑‍💻 About Me
-I am a curious and innovative Computer Engineering student with a strong interest in **Artificial Intelligence, Web Development, and problem-solving**.  
-I enjoy applying theoretical concepts to real-world projects and continuously improving my coding and analytical skills.  
-I believe in **learning by building** and growing through consistency and exploration.
+I am a **Computer Engineering undergraduate (2023–2027)** with strong interest in  
+**Artificial Intelligence, Web Development, Automation, and Data Structures**.
+
+I enjoy transforming theoretical concepts into **real-world applications** and believe in
+**consistent learning, clean code, and practical problem-solving**.
 
 ---
 
 ## 💼 Experience
 
 ### 🔹 Intern — **TGP Bioplastics Pvt. Ltd.** (6 Months)
-- Worked on **AI Agent development** to automate and enhance internal business processes  
-- Assisted in building and fine-tuning **AI-driven workflow automation systems**
+- Worked on **AI Agent development** to automate internal business processes  
+- Assisted in designing and improving **AI-driven workflow automation systems**
 
 ---
 
 ## 🚀 Projects
 
 ### 🧩 Employee Task Management System (Full Stack)
-- Built a **secure full-stack application** with:
+- Developed a **secure full-stack web application**
+- Implemented:
   - Role-Based Access Control (RBAC)
   - Real-time notifications
   - Task CRUD dashboard
-- Implemented **token-based admin restrictions** and approval workflows for controlled task management
+- Added **token-based admin approvals** for controlled task management
 
-### 🚗 Anti-Sleep Device for Drivers (IoT Project)
-- Developed an **embedded system** using:
+### 🚗 Anti-Sleep Device for Drivers (IoT)
+- Built an **embedded safety system** using:
   - Heartbeat sensor
   - GSR sensor
-- Monitored driver alertness in real time
-- Triggered **buzzer and vibration alerts** on drowsiness detection to improve road safety
+- Detected driver drowsiness in real time
+- Triggered **buzzer & vibration alerts** to prevent fatigue-related accidents
 
-### 🤖 RPA Bot for Data Entry
-- Built an **UiPath automation bot**
-- Extracted records from **Excel sheets**
-- Automatically filled data into a **government ERP portal**
+### 🤖 RPA Bot for Data Entry (UiPath)
+- Created an **automation bot using UiPath Studio**
+- Extracted data from **Excel sheets**
+- Auto-filled records into a **government ERP portal**
 - Reduced manual effort and processing time significantly
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-**Programming & Web**
-- HTML, CSS
-- Java (Basic), C++ (Basic)
+### 💻 Programming & Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-**AI & Automation**
-- AI Agents
-- Robotic Process Automation (RPA)
+### 🤖 AI & Automation
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath)
 
-**Tools & Platforms**
-- Git & GitHub
-- UiPath Studio
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📜 Certifications
-- 📘 **Database Management Systems** – NPTEL (Swayam), Sept 2025  
-- ☕ **Programming with Java** – Amazon, April 2025  
-- 🤖 **UiPath Automation Developer Professional Training** – UiPath Academy  
+- 📘 **Database Management Systems** – NPTEL (Elite Silver, Top 5%)
+- ☕ **Programming with Java** – Amazon
+- 🤖 **UiPath Automation Developer Professional** – UiPath Academy
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Branch Topper (CSE, First Year)** – Highest academic performance  
-- 🏅 **Elite Silver Badge (Top 5%)** in NPTEL DBMS with **77%**
+- 🥇 **Branch Topper (CSE – First Year)**
+- 🏅 **Elite Silver Badge** in NPTEL DBMS (77%)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshubham1903&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshubham1903&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kshubham1903&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kshubham1903&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshubham1903&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshubham1903&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-📧 Email: **shubhamkadamsk193@gmail.com**  
-🔗 LinkedIn: *https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile*  
+📧 **Email:** shubhamkadamsk193@gmail.com  
+🔗 **LinkedIn:** *(Add your LinkedIn profile link)*  
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Focused on growth, driven by curiosity, and committed to excellence.*
