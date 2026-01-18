@@ -43,4 +43,4 @@ I build practical projects and continuously improve my coding skills.
 
 ## 📬 Contact
 📧 shubhamkadamsk193@gmail.com  
-🔗 LinkedIn: *(add your link)*  
+🔗 LinkedIn: *www.linkedin.com/in/shubham-kadam-70779b333*  
