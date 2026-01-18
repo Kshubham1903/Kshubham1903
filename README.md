@@ -39,6 +39,8 @@ I build practical projects and continuously improve my coding skills.
 ## 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshubham1903&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Kshubham1903&theme=tokyonight&hide_border=true&fire=DD7F1B&ring=DD7F1B&currStreakLabel=DD7F1B)
+
 ---
 
 ## 📬 Contact
